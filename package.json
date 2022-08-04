@@ -2,7 +2,7 @@
   "name": "laboratorio-react-webpack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "webpack-dev-server --mode development",
@@ -34,8 +34,11 @@
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.3",
     "@mui/styled-engine-sc": "^5.9.3",
+    "axios": "^0.27.2",
+    "query-string": "^7.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "styled-components": "^5.3.5"
   }
 }

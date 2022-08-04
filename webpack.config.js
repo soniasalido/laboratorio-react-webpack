@@ -14,7 +14,7 @@ module.exports = {
     // Defino un punto de entrada para la aplicación --> app
     // Defino un punto de entrada para el css --> appStyles
     entry: {
-        app: "./index.jsx",
+        app: "./main.jsx",
         appStyles: "./mystyles.scss"
     },
     // Definimos las Salidas que va a generar webpack.
