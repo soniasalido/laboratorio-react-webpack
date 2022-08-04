@@ -14,3 +14,5 @@ document.getElementById("imgContainer").appendChild(img);
 const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(<MiComponente />);
+
+
